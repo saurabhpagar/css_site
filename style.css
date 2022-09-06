@@ -1,0 +1,122 @@
+ body{
+   background-image: url(https://img.freepik.com/premium-vector/sky-cloud-daily-illustration-with-cartoon-cirrus-cumulus-white-clouds-rays-sun-illustration_1284-62767.jpg?w=2000);
+   margin: 0;
+   text-align: center;
+   font-family: cursive;
+
+ }
+
+ h1{
+
+  margin: 0 auto 0 auto;
+ }
+
+ a{
+   font-size: 30px;
+ }
+ a:hover{
+   color: #100720;
+ }
+ .Services{
+   margin: 300px;
+   font-size: 40px;
+ }
+ .s1{
+   margin: 150px;
+   font-size: 30px;
+ }
+ .s1:hover{
+   color: red;
+   font-size: 50px;
+ }
+
+ .s2:hover{
+   font-size: 70px;
+   color: red;
+ }
+
+ .s-image:hover{
+   height: 400px;
+   width: 400px;
+ }
+
+ .contact-me:hover{
+   font-size: 30px;
+   color: red;
+ }
+ .py{
+   padding: 200px;
+
+ }
+ .top1{
+     font-family: 'Sacramento', cursive;
+     font-size: 50px;
+     color: red;
+     position: fixed:top;
+
+ }
+
+
+
+
+
+
+
+.top{
+  background-image: url(https://img.freepik.com/premium-vector/sky-cloud-daily-illustration-with-cartoon-cirrus-cumulus-white-clouds-rays-sun-illustration_1284-62767.jpg?w=2000);
+  display: block;
+  padding-top: 150px;
+
+
+
+
+
+}
+
+.middle{
+  background-image: url(https://img.freepik.com/premium-vector/sky-cloud-daily-illustration-with-cartoon-cirrus-cumulus-white-clouds-rays-sun-illustration_1284-62767.jpg?w=2000);
+
+
+}
+
+.profile{
+  background-color: #FFD39A;
+  background-image: url(https://img.freepik.com/premium-vector/sky-cloud-daily-illustration-with-cartoon-cirrus-cumulus-white-clouds-rays-sun-illustration_1284-62767.jpg?w=2000);
+}
+
+.s-image{
+  height:200px;
+  width:200px;
+}
+
+
+
+
+
+.de{
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+
+
+}
+.de:hover{
+  color: red;
+}
+
+.m2{
+  margin-top: 20px;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+
+}
+
+span:hover{
+  color: orange;
+}
+
+.b-cloud{
+  position: relative;
+  bottom: 250px;
+  left: 150px;
+}
